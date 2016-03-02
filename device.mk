@@ -283,7 +283,6 @@ PRODUCT_COPY_FILES += \
 
 # WiFi
 PRODUCT_PACKAGES += \
-    dhcpcd.conf \
     libqsap_sdk \
     libQWiFiSoftApCfg \
     libwpa_client \
